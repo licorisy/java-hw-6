@@ -4,7 +4,7 @@ package ru.netology.stats;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class BusinessServiceTest {
+public class StatsServiceTest {
     @Test
     public void shouldFindSumAllMonth() {
         StatsService service = new StatsService();
